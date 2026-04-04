@@ -219,19 +219,19 @@ A project is done when:
 - ✅ The README is complete with a live demo link
 - ✅ The repo is clean and documented
 
-It is NOT done when it is perfect. Perfect is not a real destination.
-
 ---
 
 ## 7. Documentation Standards
 
 Every project must have the following before it counts as portfolio-ready.
 
-### README.md (required)
+### README.md
+**Purpose:** Public face of the project. Short, scannable, product-focused.  
+**Written:** At the end, once I have screenshots and a live link.  
+**Audience:** Hiring managers, collaborators, anyone landing my page.
 
-```
 # Project Name
-One sentence description.
+> One sentence description.
 
 ## Problem
 What problem does this solve?
@@ -255,17 +255,33 @@ How does it solve it?
 Step by step instructions.
 
 ## Development Process
-Process used (e.g. Lean Agile + Kanban)
+Lean Agile + Kanban — [View Board](link)
 
 ## What I Learned
 Honest reflection — what was hard, what surprised you.
 
 ## Roadmap
 What comes next.
-```
 
-### /docs folder (required)
+---
 
+### PROJECT_BRIEF.md
+**Purpose:** Internal planning document. Detailed, process-focused.  
+**Written:** Before writing a single line of code.  
+**Audience:** Me or, anyone who wants to understand my thinking process.
+
+Contains:
+1. Project selection reasoning (answering my 4 questions)
+2. Chosen format and why
+3. Development process (+ link)
+4. Phase timeline according to [My Developer Handbook](https://github.com/zinebnadak/zinebnadak-developer-handbook) & statuses
+5. Scope — what is and isn't being built
+6. Tech stack decisions
+7. After MVP plan - Decide if the project is Done according to [My Developer Handbook](https://github.com/zinebnadak/zinebnadak-developer-handbook)
+
+---
+
+### /docs folder
 | File | Description |
 |---|---|
 | `wireframes.png` | UI sketches for each screen |
@@ -273,9 +289,9 @@ What comes next.
 | `user-flow.png` | How a user moves through the app |
 | `use-case-diagram.png` | Who does what |
 
-### Git commit hygiene (required)
+---
 
-Use the prefix convention:
+### Git Commit Hygiene
 - `feat:` new feature
 - `fix:` bug fix
 - `chore:` setup, config, refactor
@@ -283,6 +299,7 @@ Use the prefix convention:
 - `style:` UI/CSS changes only
 
 Never commit everything at once. Commit history is part of the portfolio.
+
 
 ---
 

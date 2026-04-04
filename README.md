@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [Project Selection](#1-project-selection)
 2. [Choosing a Project Format](#2-choosing-a-project-format)
-3. [Choosing a Development Process](#3-choosing-a-development-process)
+3. [My Development Process](#3-my-development-process)
 4. [Project Phases & Timeline](#4-project-phases--timeline)
 5. [After MVP — What Comes Next](#5-after-mvp--what-comes-next)
 6. [When Is a Project "Done"?](#6-when-is-a-project-done)
@@ -52,7 +52,7 @@ I´ll pick the **simplest format** that solves the problem, and gets to a workin
 
 ---
 
-## 3. Development Process
+## 3. My Development Process
 
 As a solo developer I still work with formal processes — but the lightweight ones. I work highly-iterative, "Agile-lite" methodologies, emphasizing Minimun Viable Products (MVPs).
 
@@ -68,13 +68,7 @@ As a solo developer I still work with formal processes — but the lightweight o
 > Every project README states the process used — so it is visible to anyone reviewing the repo.
 
 ---
----
----
----
----
----
----
----
+
 
 ## 4. Project Phases & Timeline
 

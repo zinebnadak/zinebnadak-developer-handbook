@@ -337,9 +337,9 @@ This is what I currently work with. Updated as I add tools.
 | Deployment | Vercel | Auto-deploys from GitHub |
 | Automation | n8n | No-code workflow automation |
 | Scripting | Python | Data tasks, CLI tools |
-| Design | Figma / Excalidraw | Wireframes and flows |
-| Diagrams | draw.io / Astah | ER diagrams, UML |
-| Task board | GitHub Projects | Kanban board per project |
+| Design | Figma | Wireframes and flows |
+| Diagrams | Astah or draw.io | ER diagrams, UML |
+| Task board | GitHub Projects | ex. Kanban board |
 
 ---
 
